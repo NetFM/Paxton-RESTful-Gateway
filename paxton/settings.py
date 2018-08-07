@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'untitled1.urls'
+ROOT_URLCONF = 'paxton.urls'
 
 TEMPLATES = [
     {
