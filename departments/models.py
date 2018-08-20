@@ -8,6 +8,6 @@ class Visitor(models.Model):
 
 
 class Department(models.Model):
-    question = models.ForeignKey(Question)
+    question = models.ForeignKey(Visitor)
     choice_text = models.CharField(max_length=200)
     votes = models.IntegerField(default=0)
