@@ -16,6 +16,7 @@
 
 http://www.paxton.co.uk/Forum/posts/m2882-Querying-the-database-with-OemClient-QueryDb
 
+```
 UserID - 0
 UserGUID - 2f98bad5-7019-4875-bc58-a70b8cd2bcef
 FirstName -
@@ -53,6 +54,7 @@ AlarmUser - False
 StaffCategoryID - 0
 LastUpdated - 27/12/2017 11:11:27
 cp2.ddns.net is production machine at Vodafone dave/i*******4
+```
 
 http://www.paxton.co.uk/forum/
 
